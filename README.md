@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vaaibhav27/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vaaibhav27/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/vaaibhav27/Leetcode/tree/master/0525-contiguous-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vaaibhav27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/vaaibhav27/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/vaaibhav27/Leetcode/tree/master/0724-find-pivot-index) |
 | [2029-stone-game-ix](https://github.com/vaaibhav27/Leetcode/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaaibhav27/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vaaibhav27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/vaaibhav27/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/vaaibhav27/Leetcode/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
