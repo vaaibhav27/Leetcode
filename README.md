@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaaibhav27/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaaibhav27/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaaibhav27/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2029-stone-game-ix](https://github.com/vaaibhav27/Leetcode/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
