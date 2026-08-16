@@ -11,16 +11,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaaibhav27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vaaibhav27/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/vaaibhav27/Leetcode/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/vaaibhav27/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaaibhav27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vaaibhav27/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/vaaibhav27/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaaibhav27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vaaibhav27/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/vaaibhav27/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
 | ------- |
