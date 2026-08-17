@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vaaibhav27/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/vaaibhav27/Leetcode/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vaaibhav27/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1563-stone-game-v](https://github.com/vaaibhav27/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/vaaibhav27/Leetcode/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaaibhav27/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaaibhav27/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1563-stone-game-v](https://github.com/vaaibhav27/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/vaaibhav27/Leetcode/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/vaaibhav27/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/vaaibhav27/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/vaaibhav27/Leetcode/tree/master/0414-third-maximum-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/vaaibhav27/Leetcode/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
