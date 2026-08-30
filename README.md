@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vaaibhav27/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1563-stone-game-v](https://github.com/vaaibhav27/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/vaaibhav27/Leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vaaibhav27/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaaibhav27/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaaibhav27/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vaaibhav27/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaaibhav27/Leetcode/tree/master/0011-container-with-most-water) |
 | [2029-stone-game-ix](https://github.com/vaaibhav27/Leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vaaibhav27/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Minimax
 |  |
 | ------- |
