@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaaibhav27/Leetcode/tree/master/0011-container-with-most-water) |
+| [0152-maximum-product-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0303-range-sum-query-immutable](https://github.com/vaaibhav27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/vaaibhav27/Leetcode/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1563-stone-game-v](https://github.com/vaaibhav27/Leetcode/tree/master/1563-stone-game-v) |
 ## Simulation
 |  |
