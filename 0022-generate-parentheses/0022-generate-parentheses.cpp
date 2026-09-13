@@ -1,26 +1,25 @@
 class Solution {
 public:
-    void gen(string &arr, vector<string> &ans, int open, int close, int n) {
-        if(arr.length() == 2 *n) {
-            ans.push_back(arr);
+    void gen(int n, int open, int close, vector<string> &ans, string &curr) {
+        if(curr.size() == 2 * n) {
+            ans.push_back(curr);
             return;
         }
-
         if(open < n) {
-            arr.push_back('(');
-            gen(arr, ans, open+1, close, n);
-            arr.pop_back();
+            curr.push_back('(');
+            gen(n, open + 1, close, ans, curr);
+            curr.pop_back();
         }
         if(close < open) {
-            arr.push_back(')');
-            gen(arr, ans, open, close + 1, n);
-            arr.pop_back();
+            curr.push_back(')');
+            gen(n, open, close + 1, ans, curr);
+            curr.pop_back();
         }
     }
     vector<string> generateParenthesis(int n) {
-        string arr = "";
         vector<string> ans;
-        gen(arr, ans, 0, 0, n);
+        string curr = "";
+        gen(n, 0, 0, ans, curr);
         return ans;
     }
 };
