@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaaibhav27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaaibhav27/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/vaaibhav27/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/vaaibhav27/Leetcode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/vaaibhav27/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vaaibhav27/Leetcode/tree/master/0525-contiguous-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vaaibhav27/Leetcode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/vaaibhav27/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/vaaibhav27/Leetcode/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/vaaibhav27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/vaaibhav27/Leetcode/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vaaibhav27/Leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/vaaibhav27/Leetcode/tree/master/0414-third-maximum-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaaibhav27/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Dynamic Programming
