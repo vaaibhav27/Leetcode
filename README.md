@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaaibhav27/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/vaaibhav27/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/vaaibhav27/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/vaaibhav27/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vaaibhav27/Leetcode/tree/master/0525-contiguous-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/vaaibhav27/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/vaaibhav27/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/vaaibhav27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/vaaibhav27/Leetcode/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/vaaibhav27/Leetcode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaaibhav27/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vaaibhav27/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaaibhav27/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vaaibhav27/Leetcode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/vaaibhav27/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaaibhav27/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vaaibhav27/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/vaaibhav27/Leetcode/tree/master/0414-third-maximum-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaaibhav27/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Dynamic Programming
@@ -179,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaaibhav27/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vaaibhav27/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
