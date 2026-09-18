@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vaaibhav27/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/vaaibhav27/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaaibhav27/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/vaaibhav27/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaaibhav27/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vaaibhav27/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaaibhav27/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vaaibhav27/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/vaaibhav27/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vaaibhav27/Leetcode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/vaaibhav27/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/vaaibhav27/Leetcode/tree/master/0217-contains-duplicate) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vaaibhav27/Leetcode/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/vaaibhav27/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vaaibhav27/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vaaibhav27/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaaibhav27/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vaaibhav27/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vaaibhav27/Leetcode/tree/master/0169-majority-element) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -340,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vaaibhav27/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vaaibhav27/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
