@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vaaibhav27/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vaaibhav27/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/vaaibhav27/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vaaibhav27/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vaaibhav27/Leetcode/tree/master/0054-spiral-matrix) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaaibhav27/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/vaaibhav27/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vaaibhav27/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/vaaibhav27/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vaaibhav27/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vaaibhav27/Leetcode/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/vaaibhav27/Leetcode/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/vaaibhav27/Leetcode/tree/master/1672-richest-customer-wealth) |
