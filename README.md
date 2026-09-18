@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaaibhav27/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/vaaibhav27/Leetcode/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/vaaibhav27/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/vaaibhav27/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/vaaibhav27/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vaaibhav27/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vaaibhav27/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
