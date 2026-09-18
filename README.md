@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vaaibhav27/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaaibhav27/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vaaibhav27/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/vaaibhav27/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaaibhav27/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaaibhav27/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaaibhav27/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/vaaibhav27/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaaibhav27/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaaibhav27/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaaibhav27/Leetcode/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/vaaibhav27/Leetcode/tree/master/2029-stone-game-ix) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vaaibhav27/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/vaaibhav27/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Game Theory
 |  |
 | ------- |
