@@ -14,7 +14,7 @@ public:
 
                 bool palindrome = true;
 
-                while (left < right) {
+                while (left <= right) {
 
                     if (s[left] != s[right]) {
                         palindrome = false;
