@@ -5,11 +5,10 @@ public:
             ans.push_back(arr);
             return;
         }
-
-        gen(nums, arr, ans, i+1);
         arr.push_back(nums[i]);
         gen(nums, arr, ans, i+1);
         arr.pop_back();
+        gen(nums, arr, ans, i+1);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<int> arr;
