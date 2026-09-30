@@ -1,24 +1,22 @@
 class Solution {
 public:
-    void gen(vector<int> &nums, vector<int> &arr, int ind, vector<vector<int>> &ans) 
-    {
-        ans.push_back(arr);
+    void solve(vector<int>& nums, vector<vector<int>> &ans, vector<int> &curr, int i) {
+       
+        ans.push_back(curr);
+         
+        for(int ind = i; ind < nums.size(); ind++) {
+            if(ind > i && nums[ind] == nums[ind-1]) continue;
 
-        for(int i = ind; i<nums.size(); i++) 
-        {
-            if(i > ind && nums[i] == nums[i-1]) continue;
-
-            arr.push_back(nums[i]);
-            gen(nums, arr, i+1, ans);
-            arr.pop_back();
+            curr.push_back(nums[ind]);
+            solve(nums, ans, curr, ind + 1);
+            curr.pop_back();
         }
     }
-    vector<vector<int>> subsetsWithDup(vector<int>& nums) 
-    {
-        vector<int> arr;
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         vector<vector<int>> ans;
+        vector<int> curr;
         sort(nums.begin(), nums.end());
-        gen(nums, arr, 0, ans);
+        solve(nums, ans, curr, 0);
         return ans;
     }
 };
