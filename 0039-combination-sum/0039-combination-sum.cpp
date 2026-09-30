@@ -1,25 +1,26 @@
 class Solution {
 public:
-    void gen(vector<int>& candidates, int n, int ind, vector<vector<int>> &ans, vector<int> &curr, int target) {
-        if(target == 0) {
-            ans.push_back(curr);
+    void solve(vector<int> &candidates, int target, int i, vector<vector<int>> &ans, vector<int> &curr, int sum) {
+        if(i == candidates.size()) {
+            if(sum == target) {
+                ans.push_back(curr);
+            }
             return;
         }
-        if(ind == n) {
-            return;
-        }
-        if(candidates[ind] <= target) {
-            curr.push_back(candidates[ind]);
-            gen(candidates, n, ind, ans, curr, target - candidates[ind]);
+
+        if(sum <= target) {
+            curr.push_back(candidates[i]);
+            solve(candidates, target, i, ans, curr, sum + candidates[i]);
             curr.pop_back();
         }
-        gen(candidates, n, ind + 1, ans, curr, target);
+        solve(candidates, target, i + 1, ans, curr, sum);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        int n = candidates.size();
         vector<vector<int>> ans;
         vector<int> curr;
-        gen(candidates, n, 0, ans, curr, target);
+
+        solve(candidates, target, 0, ans, curr, 0);
+
         return ans;
     }
 };
