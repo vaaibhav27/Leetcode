@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vaaibhav27/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vaaibhav27/Leetcode/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/vaaibhav27/Leetcode/tree/master/0835-image-overlap) |
+| [1020-number-of-enclaves](https://github.com/vaaibhav27/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaaibhav27/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vaaibhav27/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vaaibhav27/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vaaibhav27/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1020-number-of-enclaves](https://github.com/vaaibhav27/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaaibhav27/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/vaaibhav27/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/vaaibhav27/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaaibhav27/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vaaibhav27/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vaaibhav27/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/vaaibhav27/Leetcode/tree/master/0835-image-overlap) |
+| [1020-number-of-enclaves](https://github.com/vaaibhav27/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/vaaibhav27/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vaaibhav27/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaaibhav27/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/vaaibhav27/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vaaibhav27/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
