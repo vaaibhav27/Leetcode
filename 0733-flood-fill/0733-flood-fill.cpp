@@ -3,35 +3,39 @@ public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int n = image.size();
         int m = image[0].size();
-        queue<pair<int, int>> q;
-        vector<vector<int>> visited(n, vector<int>(m, 0));
-        vector<vector<int>>ans(n, vector<int>(m, 0));
-        for(int i = 0; i<n; i++) {
-            for(int j = 0; j<m; j++) {
-                ans[i][j] = image[i][j];
+        vector<vector<int>> adj(n, vector<int> (m));
+        if(image[sr][sc] == color)
+            return image;
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                adj[i][j] = image[i][j];
             }
         }
+        queue<pair<int, int>> q;
         q.push({sr, sc});
-        visited[sr][sc] = 1;
-        ans[sr][sc] = color;
         int clr = image[sr][sc];
+        adj[sr][sc] = color;
+
+        int row[] = {-1, 0, +1, 0};
+        int col[] = {0, +1, 0, -1};
+
         while(!q.empty()) {
-            int r = q.front().first;
-            int c = q.front().second;
-            int nrow[] = {-1, 0, +1, 0};
-            int ncol[] = {0, +1, 0, -1};
+            int rw = q.front().first;
+            int cl = q.front().second;
+
             q.pop();
-            for(int i = 0; i<4; i++) {
-                int row = nrow[i] + r;
-                int col = ncol[i] + c;
-                if(row >= 0 && row < n && col >= 0  && col < m
-                && visited[row][col] == 0 && image[row][col] == clr) {
-                    q.push({row, col});
-                    visited[row][col] = 1;
-                    ans[row][col] = color;
+
+            for(int i = 0; i < 4; i++) {
+                int r = row[i] + rw;
+                int c = col[i] + cl;
+
+                if(r >=0 && r < n && c >= 0 && c < m
+                && adj[r][c] == clr) {
+                    adj[r][c] = color;
+                    q.push({r, c});
                 }
             }
         }
-        return ans;
+        return adj;
     }
 };
