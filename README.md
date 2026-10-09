@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vaaibhav27/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaaibhav27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vaaibhav27/Leetcode/tree/master/0567-permutation-in-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaaibhav27/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/vaaibhav27/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaaibhav27/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaaibhav27/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vaaibhav27/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vaaibhav27/Leetcode/tree/master/0414-third-maximum-number) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaaibhav27/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/vaaibhav27/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaaibhav27/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaaibhav27/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vaaibhav27/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vaaibhav27/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/vaaibhav27/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaaibhav27/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vaaibhav27/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vaaibhav27/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/vaaibhav27/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vaaibhav27/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaaibhav27/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaaibhav27/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaaibhav27/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vaaibhav27/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vaaibhav27/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vaaibhav27/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/vaaibhav27/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaaibhav27/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/vaaibhav27/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vaaibhav27/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -431,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vaaibhav27/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaaibhav27/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaaibhav27/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaaibhav27/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vaaibhav27/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
