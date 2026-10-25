@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vaaibhav27/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/vaaibhav27/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vaaibhav27/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/vaaibhav27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vaaibhav27/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vaaibhav27/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/vaaibhav27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/vaaibhav27/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaaibhav27/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaaibhav27/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -593,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaaibhav27/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vaaibhav27/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
