@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vaaibhav27/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaaibhav27/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vaaibhav27/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/vaaibhav27/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/vaaibhav27/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vaaibhav27/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vaaibhav27/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/vaaibhav27/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vaaibhav27/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaaibhav27/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/vaaibhav27/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Minimax
 |  |
 | ------- |
