@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaaibhav27/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaaibhav27/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vaaibhav27/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/vaaibhav27/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaaibhav27/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Array
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaaibhav27/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaaibhav27/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vaaibhav27/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/vaaibhav27/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaaibhav27/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaaibhav27/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaaibhav27/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vaaibhav27/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/vaaibhav27/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaaibhav27/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/vaaibhav27/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vaaibhav27/Leetcode/tree/master/0493-reverse-pairs) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/vaaibhav27/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/vaaibhav27/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vaaibhav27/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
@@ -674,4 +678,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vaaibhav27/Leetcode/tree/master/0139-word-break) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/vaaibhav27/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/vaaibhav27/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/vaaibhav27/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
