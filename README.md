@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/vaaibhav27/Leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vaaibhav27/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vaaibhav27/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/vaaibhav27/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/vaaibhav27/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/vaaibhav27/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vaaibhav27/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/vaaibhav27/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/vaaibhav27/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaaibhav27/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/vaaibhav27/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/vaaibhav27/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaaibhav27/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vaaibhav27/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vaaibhav27/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/vaaibhav27/Leetcode/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/vaaibhav27/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/vaaibhav27/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/vaaibhav27/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
