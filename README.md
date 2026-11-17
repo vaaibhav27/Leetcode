@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vaaibhav27/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/vaaibhav27/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vaaibhav27/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/vaaibhav27/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vaaibhav27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vaaibhav27/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/vaaibhav27/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vaaibhav27/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vaaibhav27/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/vaaibhav27/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vaaibhav27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vaaibhav27/Leetcode/tree/master/0072-edit-distance) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vaaibhav27/Leetcode/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vaaibhav27/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vaaibhav27/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
