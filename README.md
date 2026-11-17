@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vaaibhav27/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/vaaibhav27/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vaaibhav27/Leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vaaibhav27/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/vaaibhav27/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaaibhav27/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vaaibhav27/Leetcode/tree/master/0567-permutation-in-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/vaaibhav27/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vaaibhav27/Leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vaaibhav27/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaaibhav27/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vaaibhav27/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaaibhav27/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/vaaibhav27/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/vaaibhav27/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vaaibhav27/Leetcode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vaaibhav27/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vaaibhav27/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaaibhav27/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0523-continuous-subarray-sum) |
