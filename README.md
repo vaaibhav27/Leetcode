@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaaibhav27/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vaaibhav27/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vaaibhav27/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vaaibhav27/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaaibhav27/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vaaibhav27/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vaaibhav27/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
