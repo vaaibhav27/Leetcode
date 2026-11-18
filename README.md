@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vaaibhav27/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaaibhav27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vaaibhav27/Leetcode/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/vaaibhav27/Leetcode/tree/master/0575-distribute-candies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaaibhav27/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/vaaibhav27/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaaibhav27/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vaaibhav27/Leetcode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/vaaibhav27/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vaaibhav27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/vaaibhav27/Leetcode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/vaaibhav27/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vaaibhav27/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vaaibhav27/Leetcode/tree/master/0733-flood-fill) |
