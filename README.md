@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vaaibhav27/Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/vaaibhav27/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vaaibhav27/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0705-design-hashset](https://github.com/vaaibhav27/Leetcode/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaaibhav27/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/vaaibhav27/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaaibhav27/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/vaaibhav27/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vaaibhav27/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/vaaibhav27/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/vaaibhav27/Leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/vaaibhav27/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vaaibhav27/Leetcode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/vaaibhav27/Leetcode/tree/master/0835-image-overlap) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vaaibhav27/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/vaaibhav27/Leetcode/tree/master/0705-design-hashset) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vaaibhav27/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/vaaibhav27/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vaaibhav27/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/vaaibhav27/Leetcode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/vaaibhav27/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vaaibhav27/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vaaibhav27/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -769,4 +773,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/vaaibhav27/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vaaibhav27/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
