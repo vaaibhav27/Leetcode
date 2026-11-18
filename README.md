@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/vaaibhav27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/vaaibhav27/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0748-shortest-completing-word](https://github.com/vaaibhav27/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/vaaibhav27/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/vaaibhav27/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/vaaibhav27/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/vaaibhav27/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vaaibhav27/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/vaaibhav27/Leetcode/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/vaaibhav27/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/vaaibhav27/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaaibhav27/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/vaaibhav27/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaaibhav27/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
