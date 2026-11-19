@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vaaibhav27/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/vaaibhav27/Leetcode/tree/master/0911-online-election) |
 | [0916-word-subsets](https://github.com/vaaibhav27/Leetcode/tree/master/0916-word-subsets) |
+| [0931-minimum-falling-path-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vaaibhav27/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vaaibhav27/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/vaaibhav27/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vaaibhav27/Leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/vaaibhav27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/vaaibhav27/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0931-minimum-falling-path-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/vaaibhav27/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaaibhav27/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaaibhav27/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vaaibhav27/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vaaibhav27/Leetcode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/vaaibhav27/Leetcode/tree/master/0835-image-overlap) |
+| [0931-minimum-falling-path-sum](https://github.com/vaaibhav27/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vaaibhav27/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vaaibhav27/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/vaaibhav27/Leetcode/tree/master/1254-number-of-closed-islands) |
